@@ -1,1 +1,2 @@
 # Alpha-Restaurant
+Alpha Restaurant is offering hospitality services to all of its customers.This website provides an interface where customers can access any type of food of their choice and make an order online.
